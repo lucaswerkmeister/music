@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="/basic.css"/>
+    <title>Wikidata Rhythmic Improvisations</title>
+  </head>
+  <body vocab="http://schema.org/">
+    <article resource="https://lucaswerkmeister.de/music/wikidata-rhythmic-improvisations-2018/" typeof="BlogPosting">
+      <header>
+        <h1 property="name">Wikidata Rhythmic Improvisations</h1>
+        <address><a rel="author" href="https://lucaswerkmeister.de" typeof="Person"><span property="name" lang="de-DE">Lucas Werkmeister</span></a></address>,
+        <time property="datePublished" datetime="2018-06-26">2018-06-26</time>.
+        <link property="publisher" href="https://lucaswerkmeister.de" typeof="Person"/>
+      </header>
+      <div property="sharedContent" resource="https://lucaswerkmeister.de/music/wikidata-rhythmic-improvisations-2018/recording/rhythm" typeof="MusicRecording">
+        <meta property="name" content="Wikidata Rhythmic Improvisations"/>
+        <link property="recordingOf" href="https://lucaswerkmeister.de/music/wikidata-rhythmic-improvisations-2018/composition/rhythm"/>
+        <link property="byArtist" typeof="MusicGroup" href="https://lucaswerkmeister.de"/>
+        <link property="license" href="http://creativecommons.org/licenses/by-sa/4.0/"/>
+        <audio property="encoding" typeof="AudioObject" controls="controls">
+          <source property="contentUrl" src="wikidata.flac" type="audio/flac">
+          <source property="contentUrl" src="wikidata.mp3" type="audio/mpeg">
+          <source property="contentUrl" src="wikidata.wav" type="audio/wav">
+          Your browser does not support the <code>audio</code> element.
+          Try this link instead: <a href="wikidata.wav">wikidata.wav</a>
+        </audio>
+      </div>
+      <p>
+        The Wikidata logo consists mainly of a barcode spelling out the word <q>WIKI</q> in Morse:
+      </p>
+      <figure>
+        <img width="650px" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Wikidata-logo-en.svg">
+        <figcaption>
+          <a href="https://commons.wikimedia.org/wiki/User:Planemad">Planemad</a>,
+          <a href="https://commons.wikimedia.org/wiki/File:Wikidata-logo-en.svg">Wikidata-logo-en</a>,
+          marked as public domain,
+          more details on <a href="https://commons.wikimedia.org/wiki/Template:PD-text">Wikimedia Commons</a>
+        </figcaption>
+      </figure>
+      <p>
+        I was wondering if you could convert that into some musical rhythm,
+        and it turns out that if you take each wide bar as a quarter note,
+        each thin bar as an eighth note,
+        and each gap as an eighth rest,
+        you end up with a rhythm that’s twelve quarter notes long –
+      </p>
+      <figure>
+        <img src="wikidata-from-2.0.1-to-3.0.1-clip.png" alt="c8 r8 c4 r8 c4 r8 c8 r8 c8 r8 c4 r8 c8 r8 c4 r8 c8 r8 c8 r8">
+      </figure>
+      <p>
+        – and distributes quite nicely across either three 4/4-time bars –
+      </p>
+      <figure>
+        <img src="wikidata-from-7.0.1-to-11.0.1-clip.png" alt="\time 4/4 c8 r8 c4 r8 c4 r8 | c8 r8 c8 r8 c4 r8 c8 | r8 c4 r8 c8 r8 c8 r8">
+      </figure>
+      <p>
+        – or two 6/4-time bars, which in my opinion makes more sense both musically and when looking at the logo image:
+      </p>
+      <figure>
+        <img src="wikidata-from-4.0.1-to-6.0.1-clip.png" alt="\time 6/4 c8 r8 c4 r8 c4 r8 c8 r8 c8 r8 | c4 r8 c8 r8 c4 r8 c8 r8 c8 r8">
+      </figure>
+      <p>
+        (The source code for all three images is <a href="wikidata.ly">wikidata.ly</a>.)
+      </p>
+      <p resource="https://lucaswerkmeister.de/music/wikidata-rhythmic-improvisations-2018/composition/rhythm" typeof="MusicComposition">
+        <meta property="name" content="Wikidata Rhythmic Improvisations"/>
+        <link property="composer" href="https://lucaswerkmeister.de"/>
+        It’s not a full composition, and I haven’t really internalized the rhythm yet,
+        but still I think it’s rather pretty, and a bit catchy.
+        The recording above is just what I made of it,
+        but you could obviously apply this rhythm it a lot of different ways.
+      </p>
+      <p>
+        (I have to admit that my interpretation,
+        specifically the C-D-G-C chord I used at the beginning and end,
+        is influenced a bit by <cite><a href="https://www.youtube.com/watch?v=1qRb1xt1APE">The First Circle</a></cite>,
+        because I’ll be honest – I don’t know too many compositions that aren’t in 4/4 or 3/4 time.
+        That’s probably also why I dropped a note and lapsed into 5/4 time a few times – sorry.)
+      </p>
+      <h2>Download links</h2>
+      <ul>
+        <li><a href="wikidata.flac">FLAC</a></li>
+        <li><a href="wikidata.mp3">MP3</a></li>
+        <li><a href="wikidata.wav">WAV</a></li>
+      </ul>
+      <footer>
+        <div class="license-info">
+          <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+            <img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png"/>
+          </a><br/>
+          This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+        </div>
+        <div class="license-info">
+          Additionally, the musical score, including the images and the source file,
+          is placed under a <a href="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Public Domain Dedication</a>.
+        </div>
+      </footer>
+    </article>
+  </body>
+</html>
