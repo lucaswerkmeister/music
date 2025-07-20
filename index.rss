@@ -1,2 +1,604 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Lucas’ Music</title><link>https://lucaswerkmeister.de/music/</link><description>Sometimes I make music, and occasionally I even record it. Don’t expect too much polish, though. In reverse chronological order (newest recordings first):</description><lastBuildDate>Tue, 31 Dec 2024 14:55:51 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Dramatic in a minor</title><link>https://lucaswerkmeister.de/music/dramatic-a-minor-2016/</link><guid isPermaLink="true">https://lucaswerkmeister.de/music/dramatic-a-minor-2016/</guid><pubDate>Mon, 02 May 2016 00:00:00 GMT</pubDate></item><item><title>Leise rieselt der Schnee</title><link>https://lucaswerkmeister.de/music/leise-rieselt-der-schnee-2016/</link><guid isPermaLink="true">https://lucaswerkmeister.de/music/leise-rieselt-der-schnee-2016/</guid><pubDate>Sun, 18 Dec 2016 00:00:00 GMT</pubDate></item><item><title>Lament in A♭ major</title><link>https://lucaswerkmeister.de/music/lament-in-ab-major-2016/</link><guid isPermaLink="true">https://lucaswerkmeister.de/music/lament-in-ab-major-2016/</guid><pubDate>Tue, 20 Dec 2016 00:00:00 GMT</pubDate></item><item><title>Melody in f minor</title><link>https://lucaswerkmeister.de/music/melody-in-f-minor-2017/</link><guid isPermaLink="true">https://lucaswerkmeister.de/music/melody-in-f-minor-2017/</guid><pubDate>Mon, 12 Jun 2017 00:00:00 GMT</pubDate></item><item><title>Combination March</title><link>https://lucaswerkmeister.de/music/combination-march-2017/</link><guid isPermaLink="true">https://lucaswerkmeister.de/music/combination-march-2017/</guid><pubDate>Sat, 29 Jul 2017 20:01:00 GMT</pubDate></item><item><title>Melody in d minor</title><link>https://lucaswerkmeister.de/music/melody-in-d-minor-2017/</link><guid isPermaLink="true">https://lucaswerkmeister.de/music/melody-in-d-minor-2017/</guid><pubDate>Sat, 29 Jul 2017 22:29:00 GMT</pubDate></item><item><title>Happy Birthday Dear Wikidata</title><link>https://lucaswerkmeister.de/music/happy-birthday-dear-wikidata-2017/</link><guid isPermaLink="true">https://lucaswerkmeister.de/music/happy-birthday-dear-wikidata-2017/</guid><pubDate>Thu, 26 Oct 2017 00:00:00 GMT</pubDate></item><item><title>Tango (Improvisation)</title><link>https://lucaswerkmeister.de/music/tango-improvisation-2017/</link><guid isPermaLink="true">https://lucaswerkmeister.de/music/tango-improvisation-2017/</guid><pubDate>Thu, 14 Dec 2017 00:00:00 GMT</pubDate></item><item><title>B♭7/13 chord</title><link>https://lucaswerkmeister.de/music/Bb7-13-chord-2018/</link><guid isPermaLink="true">https://lucaswerkmeister.de/music/Bb7-13-chord-2018/</guid><pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate></item><item><title>Melody in C major</title><link>https://lucaswerkmeister.de/music/melody-in-c-major-2018/</link><guid isPermaLink="true">https://lucaswerkmeister.de/music/melody-in-c-major-2018/</guid><pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate></item><item><title>Wikidata Rhythmic Improvisations</title><link>https://lucaswerkmeister.de/music/wikidata-rhythmic-improvisations-2018/</link><guid isPermaLink="true">https://lucaswerkmeister.de/music/wikidata-rhythmic-improvisations-2018/</guid><pubDate>Tue, 26 Jun 2018 00:00:00 GMT</pubDate></item><item><title>Elite Syncopations Part A</title><link>https://lucaswerkmeister.de/music/elite-syncopations-part-a-2019/</link><guid isPermaLink="true">https://lucaswerkmeister.de/music/elite-syncopations-part-a-2019/</guid><pubDate>Sat, 23 Mar 2019 00:00:00 GMT</pubDate></item><item><title>Improvisation in e minor</title><link>https://lucaswerkmeister.de/music/improvisation-in-e-minor-2019/</link><guid isPermaLink="true">https://lucaswerkmeister.de/music/improvisation-in-e-minor-2019/</guid><pubDate>Sun, 07 Apr 2019 00:00:00 GMT</pubDate></item><item><title>Intermezzo in E♭ major</title><link>https://lucaswerkmeister.de/music/intermezzo-in-eb-major-2020/</link><guid isPermaLink="true">https://lucaswerkmeister.de/music/intermezzo-in-eb-major-2020/</guid><pubDate>Wed, 30 Dec 2020 00:00:00 GMT</pubDate></item><item><title>Marche funèbre</title><link>https://lucaswerkmeister.de/music/marche-funebre-2023/</link><guid isPermaLink="true">https://lucaswerkmeister.de/music/marche-funebre-2023/</guid><pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate></item><item><title>Fragments of a March (“Katowice”)</title><link>https://lucaswerkmeister.de/music/march-fragments-katowice-2024/</link><guid isPermaLink="true">https://lucaswerkmeister.de/music/march-fragments-katowice-2024/</guid><pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate></item></channel></rss>
+<rss version="2.0"><channel><title>Lucas’ Music</title><link>https://lucaswerkmeister.de/music/</link><description>Sometimes I make music, and occasionally I even record it. Don’t expect too much polish, though. In reverse chronological order (newest recordings first):</description><lastBuildDate>Sun, 20 Jul 2025 17:38:17 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Fragments of a March (“Katowice”)</title><link>https://lucaswerkmeister.de/music/march-fragments-katowice-2024/</link><description>&lt;article&gt;
+
+&lt;div&gt;
+
+
+
+
+
+&lt;audio controls="controls"&gt;
+&lt;source src="march-katowice.flac" type="audio/flac"/&gt;
+&lt;source src="march-katowice.mp3" type="audio/mpeg"/&gt;
+&lt;source src="march-katowice.wav" type="audio/wav"/&gt;
+          Your browser does not support the &lt;code&gt;audio&lt;/code&gt; element.
+          Try this link instead: &lt;a href="https://lucaswerkmeister.de/music/march-fragments-katowice-2024/march-katowice.wav"&gt;march-katowice.wav&lt;/a&gt;
+&lt;/audio&gt;
+&lt;/div&gt;
+&lt;p&gt;
+
+
+&lt;span&gt;I&lt;/span&gt;
+        wrote these “fragments of a march” in January 2020,
+        inspired by some other march music I had listened to
+        (such as &lt;a href="https://en.wikipedia.org/wiki/Under_the_Double_Eagle"&gt;&lt;i lang="de"&gt;Unter dem Doppeladler&lt;/i&gt;&lt;/a&gt;,
+        which ContraPoints used in some of her videos and I had previously transcribed &lt;a href="https://github.com/lucaswerkmeister/unter-dem-doppeladler/"&gt;an arrangement&lt;/a&gt; for,
+        or the &lt;a href="https://en.wikipedia.org/wiki/Entrance_of_the_Gladiators"&gt;&lt;i&gt;Entrance of the Gladiators&lt;/i&gt;&lt;/a&gt;).
+        It seemed to me that these marches frequently had three distinct parts:
+        a beginning with the whole band (“A”),
+        a middle part with the low brass instruments taking the lead (“B”),
+        and an end in a different key (“C”);
+        I had a “B” part and a “C” part in my head, and I wrote them down,
+        but a matching “A” part never materialized.
+        (These parts probably have real names in music theory –
+        a part of me wants to call the “C” part a “trio”? –
+        but I don’t know and don’t really care enough to look it up.)
+      &lt;/p&gt;
+&lt;p&gt;
+        More recently, I attended Wikimania 2024 in Katowice
+        (maybe I’ll write a separate blog post for that later),
+        where I was part of the &lt;a href="https://wikimania.wikimedia.org/wiki/2024:WikiOrchestra"&gt;WikiOrchestra&lt;/a&gt;;
+        this inspired me to record some more music,
+        and I figured that I might as well record these fragments of a march.
+        Since there should be &lt;em&gt;something&lt;/em&gt; to disambiguate them from any other march-like music I might record in future,
+        I am dedicating them to Katowice.
+        (Naming marches after geographic places feels like a reasonable thing to do;
+        compare, say, the &lt;a href="https://commons.wikimedia.org/wiki/File:Florentiner_March_-_U.S._Air_Force_Band.ogg"&gt;&lt;i lang="de"&gt;Florentiner Marsch&lt;/i&gt;&lt;/a&gt;.)
+      &lt;/p&gt;
+&lt;p&gt;
+        In terms of the composition,
+        I like the “B” part well enough,
+        and I’m quite happy with the “C” part:
+        I enjoy the way the melody and chords are mixing in the right hand.
+        The &lt;i lang="it"&gt;accelerando&lt;/i&gt; in the bridge between them is a bit annoying,
+        but I can’t really help it:
+        to my ear, the “C” part needs to be rather faster than the “B” part,
+        so we have to get from one to the other somehow –
+        unless I eventually write more march parts and can graft these two parts onto other bits with matching tempo.
+        (I actually found a fragment of an alternative “C” part in the LilyPond score I had written back in 2020 when I came back to this now,
+        but the “B” and “C” part recorded here is what has stuck in my head over the past four years,
+        so that’s what I recorded.)
+      &lt;/p&gt;
+&lt;p&gt;
+        In terms of the &lt;em&gt;notation&lt;/em&gt; of the composition (the PDF / LilyPond below)…
+        it’s really not great, but I don’t want to spend too much time perfecting it either.
+        I have no idea if the time signature makes sense,
+        or if this should be (say) 2/2 time instead of 4/4 time –
+        this is something that I never pay much attention to when &lt;em&gt;reading&lt;/em&gt; a score,
+        but find surprisingly difficult to figure out when &lt;em&gt;writing&lt;/em&gt; one.
+        But hey, it’s better than nothing.
+      &lt;/p&gt;
+&lt;p&gt;
+        The performance isn’t flawless, but it’s good enough –
+        if I tried to perfect every recording I upload,
+        I would never upload anything,
+        so I’m trying to be less obsessive about that.
+        A few missed notes are annoying, but I think you can imagine what they’re supposed to be;
+        the other major flaw is the tempo:
+        even though I had already slowed down compared to some earlier test recordings,
+        listening back to it I now think I was still too fast in the “C” part
+        (and didn’t even hold a consistent tempo either).
+        In my defense, the &lt;i lang="it"&gt;accelerando&lt;/i&gt; in the bridge
+        makes it impossible to play with a metronome 😅
+      &lt;/p&gt;
+&lt;h2&gt;Download links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/march-fragments-katowice-2024/march-katowice.flac"&gt;FLAC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/march-fragments-katowice-2024/march-katowice.mp3"&gt;MP3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/march-fragments-katowice-2024/march-katowice.wav"&gt;WAV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/march-fragments-katowice-2024/march-katowice.pdf"&gt;PDF&lt;/a&gt; (score)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/march-fragments-katowice-2024/march-katowice.ly"&gt;LilyPond&lt;/a&gt; (score)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/article&gt;</description><guid isPermaLink="true">https://lucaswerkmeister.de/music/march-fragments-katowice-2024/</guid><pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate></item><item><title>Marche funèbre</title><link>https://lucaswerkmeister.de/music/marche-funebre-2023/</link><description>&lt;article&gt;
+
+&lt;div&gt;
+
+
+
+
+
+&lt;audio controls="controls"&gt;
+&lt;source src="marche.flac" type="audio/flac"/&gt;
+&lt;source src="marche.mp3" type="audio/mpeg"/&gt;
+&lt;source src="marche.wav" type="audio/wav"/&gt;
+          Your browser does not support the &lt;code&gt;audio&lt;/code&gt; element.
+          Try this link instead: &lt;a href="https://lucaswerkmeister.de/music/marche-funebre-2023/marche.wav"&gt;marche.wav&lt;/a&gt;
+&lt;/audio&gt;
+&lt;/div&gt;
+&lt;p&gt;
+
+
+&lt;span&gt;
+
+&lt;span lang="de"&gt;
+            Frédéric Chopin&lt;/span&gt;&lt;/span&gt;’s
+        &lt;cite lang="fr"&gt;Marche funèbre&lt;/cite&gt;,
+        the third movement of his
+        &lt;span&gt;
+
+&lt;cite&gt;Piano Sonata No. 2 in B♭ minor, Op. 35&lt;/cite&gt;&lt;/span&gt;.
+      &lt;/p&gt;
+&lt;p&gt;
+&lt;i&gt;Dedicated to Dr. Franz Werkmeister (1937–2023).&lt;/i&gt;
+&lt;/p&gt;
+&lt;h2&gt;Download links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/marche-funebre-2023/marche.flac"&gt;FLAC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/marche-funebre-2023/marche.mp3"&gt;MP3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/marche-funebre-2023/marche.wav"&gt;WAV&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/article&gt;</description><guid isPermaLink="true">https://lucaswerkmeister.de/music/marche-funebre-2023/</guid><pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate></item><item><title>Intermezzo in E♭ major</title><link>https://lucaswerkmeister.de/music/intermezzo-in-eb-major-2020/</link><description>&lt;article&gt;
+
+&lt;div&gt;
+
+
+
+
+&lt;audio controls="controls"&gt;
+&lt;source src="intermezzo.flac" type="audio/flac"/&gt;
+&lt;source src="intermezzo.mp3" type="audio/mpeg"/&gt;
+&lt;source src="intermezzo.wav" type="audio/wav"/&gt;
+          Your browser does not support the &lt;code&gt;audio&lt;/code&gt; element.
+          Try this link instead: &lt;a href="https://lucaswerkmeister.de/music/intermezzo-in-eb-major-2020/intermezzo.wav"&gt;intermezzo.wav&lt;/a&gt;
+&lt;/audio&gt;
+&lt;/div&gt;
+&lt;p&gt;
+
+        For the &lt;a href="https://wikipaka.wtf/"&gt;Wikipaka&lt;/a&gt; assembly at &lt;a href="https://rc3.world/rc3/"&gt;rC3&lt;/a&gt;,
+        I made a recording of the &lt;cite lang="de"&gt;Intermezzo Nr. 1&lt;/cite&gt;,
+        the first of
+        &lt;span&gt;
+&lt;a href="http://www.wikidata.org/entity/Q7294"&gt;
+&lt;span lang="de"&gt;
+              Johannes Brahms&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;’
+        &lt;span&gt;
+&lt;a href="http://www.wikidata.org/entity/Q1257047"&gt;
+&lt;cite lang="de"&gt;
+              Drei Intermezzi&lt;/cite&gt;&lt;/a&gt;&lt;/span&gt;.
+        It’s not perfect, but good enough that I thought I’d upload it here.
+      &lt;/p&gt;
+&lt;h2&gt;Download links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/intermezzo-in-eb-major-2020/intermezzo.flac"&gt;FLAC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/intermezzo-in-eb-major-2020/intermezzo.mp3"&gt;MP3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/intermezzo-in-eb-major-2020/intermezzo.wav"&gt;WAV&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Alternate version&lt;/h2&gt;
+&lt;p&gt;
+        I made two recordings.
+        The one above is the first one, which I think has slightly more minor blunders but no larger problems;
+        the following one worked better overall, but I made a larger mistake at the beginning of the “third” part,
+        which is why I’m relegating it to the “alternate” version.
+        (I sent that version to Wikipaka, though,
+        since I thought it overall sounded better and the mistake wasn’t so important in that context.)
+      &lt;/p&gt;
+&lt;div&gt;
+
+
+
+
+&lt;audio controls="controls"&gt;
+&lt;source src="intermezzo-alternate.flac" type="audio/flac"/&gt;
+&lt;source src="intermezzo-alternate.mp3" type="audio/mpeg"/&gt;
+&lt;source src="intermezzo-alternate.wav" type="audio/wav"/&gt;
+          Your browser does not support the &lt;code&gt;audio&lt;/code&gt; element.
+          Try this link instead: &lt;a href="https://lucaswerkmeister.de/music/intermezzo-in-eb-major-2020/intermezzo-alternate.wav"&gt;intermezzo-alternate.wav&lt;/a&gt;
+&lt;/audio&gt;
+&lt;/div&gt;
+
+&lt;/article&gt;</description><guid isPermaLink="true">https://lucaswerkmeister.de/music/intermezzo-in-eb-major-2020/</guid><pubDate>Wed, 30 Dec 2020 00:00:00 GMT</pubDate></item><item><title>Improvisation in e minor</title><link>https://lucaswerkmeister.de/music/improvisation-in-e-minor-2019/</link><description>&lt;article&gt;
+
+&lt;div&gt;
+
+
+
+
+&lt;audio controls="controls"&gt;
+&lt;source src="improvisation.flac" type="audio/flac"/&gt;
+&lt;source src="improvisation.mp3" type="audio/mpeg"/&gt;
+&lt;source src="improvisation.wav" type="audio/wav"/&gt;
+          Your browser does not support the &lt;code&gt;audio&lt;/code&gt; element.
+          Try this link instead: &lt;a href="https://lucaswerkmeister.de/music/improvisation-in-e-minor-2019/improvisation.wav"&gt;improvisation.wav&lt;/a&gt;
+&lt;/audio&gt;
+&lt;/div&gt;
+&lt;p&gt;
+
+
+        Just an odd idea I had one Friday night.
+        Contains traces of
+        &lt;span&gt;
+
+&lt;cite&gt;Megalovania&lt;/cite&gt;
+&lt;/span&gt;
+        and the
+        &lt;span&gt;
+
+&lt;cite&gt;James Bond Theme&lt;/cite&gt;&lt;/span&gt;.
+      &lt;/p&gt;
+&lt;h2&gt;Download links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/improvisation-in-e-minor-2019/improvisation.flac"&gt;FLAC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/improvisation-in-e-minor-2019/improvisation.mp3"&gt;MP3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/improvisation-in-e-minor-2019/improvisation.wav"&gt;WAV&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/article&gt;</description><guid isPermaLink="true">https://lucaswerkmeister.de/music/improvisation-in-e-minor-2019/</guid><pubDate>Sun, 07 Apr 2019 00:00:00 GMT</pubDate></item><item><title>Elite Syncopations Part A</title><link>https://lucaswerkmeister.de/music/elite-syncopations-part-a-2019/</link><description>&lt;article&gt;
+
+&lt;div&gt;
+
+
+
+&lt;audio controls="controls"&gt;
+&lt;source src="actual_recording.flac" type="audio/flac"/&gt;
+&lt;source src="actual_recording.mp3" type="audio/mpeg"/&gt;
+&lt;source src="actual_recording.wav" type="audio/wav"/&gt;
+          Your browser does not support the &lt;code&gt;audio&lt;/code&gt; element.
+          Try this link instead: &lt;a href="https://lucaswerkmeister.de/music/elite-syncopations-part-a-2019/actual_recording.wav"&gt;actual_recording.wav&lt;/a&gt;
+&lt;/audio&gt;
+&lt;/div&gt;
+&lt;p&gt;
+        Between last and this week,
+        two &lt;abbr title="Wikimedia Deutschland"&gt;WMDE&lt;/abbr&gt; colleagues and I created
+        &lt;span&gt;
+
+
+&lt;a href="https://commons.wikimedia.org/wiki/File:Musical_notation_datatype_available.webm"&gt;
+            a short film about the new Musical Notation data type on Wikidata&lt;/a&gt;&lt;/span&gt;.
+        For some of the scenes, we needed recordings of
+        &lt;span&gt;
+
+&lt;span&gt;
+
+&lt;span&gt;Scott Joplin&lt;/span&gt;&lt;/span&gt;’s
+          &lt;cite&gt;Elite Syncopations&lt;/cite&gt;&lt;/span&gt;,
+        so I sat down and played the A part on repeat until I thought there was enough usable snippets,
+        and we were able to cut together something we could put in the video.
+      &lt;/p&gt;
+&lt;h2&gt;Download links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/elite-syncopations-part-a-2019/actual_recording.flac"&gt;FLAC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/elite-syncopations-part-a-2019/actual_recording.mp3"&gt;MP3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/elite-syncopations-part-a-2019/actual_recording.wav"&gt;WAV&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Garbage&lt;/h2&gt;
+&lt;p&gt;
+        Another scene also called for a kind of distressed jangling,
+        which would be played by the musician unable to read the LilyPond notation;
+        I just improvised that for a while,
+        first at random and then trying to guess what a musician might actually try to read from the text
+        (most of the pitch names should be understandable if you’re familiar with Dutch/German note names,
+        except for the &lt;code&gt;q&lt;/code&gt;, which means “repeat chord”,
+        but the notation to group several notes into a chord would not be easy to guess
+        and might instead be played sequentially, etc.).
+        And then I did that again because during the first improvisation
+        I forgot to switch the piano to the same voice as for the proper recording.
+      &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;div&gt;
+
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div&gt;
+
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;/article&gt;</description><guid isPermaLink="true">https://lucaswerkmeister.de/music/elite-syncopations-part-a-2019/</guid><pubDate>Sat, 23 Mar 2019 00:00:00 GMT</pubDate></item><item><title>Wikidata Rhythmic Improvisations</title><link>https://lucaswerkmeister.de/music/wikidata-rhythmic-improvisations-2018/</link><description>&lt;article&gt;
+
+&lt;div&gt;
+
+
+
+
+&lt;audio controls="controls"&gt;
+&lt;source src="wikidata.flac" type="audio/flac"/&gt;
+&lt;source src="wikidata.mp3" type="audio/mpeg"/&gt;
+&lt;source src="wikidata.wav" type="audio/wav"/&gt;
+          Your browser does not support the &lt;code&gt;audio&lt;/code&gt; element.
+          Try this link instead: &lt;a href="https://lucaswerkmeister.de/music/wikidata-rhythmic-improvisations-2018/wikidata.wav"&gt;wikidata.wav&lt;/a&gt;
+&lt;/audio&gt;
+&lt;/div&gt;
+&lt;p&gt;
+        The Wikidata logo consists mainly of a barcode spelling out the word &lt;q&gt;WIKI&lt;/q&gt; in Morse:
+      &lt;/p&gt;
+&lt;figure&gt;
+&lt;img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Wikidata-logo-en.svg" width="650px"/&gt;
+&lt;figcaption&gt;
+&lt;a href="https://commons.wikimedia.org/wiki/User:Planemad"&gt;Planemad&lt;/a&gt;,
+          &lt;a href="https://commons.wikimedia.org/wiki/File:Wikidata-logo-en.svg"&gt;Wikidata-logo-en&lt;/a&gt;,
+          marked as public domain,
+          more details on &lt;a href="https://commons.wikimedia.org/wiki/Template:PD-text"&gt;Wikimedia Commons&lt;/a&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;
+        I was wondering if you could convert that into some musical rhythm,
+        and it turns out that if you take each wide bar as a quarter note,
+        each thin bar as an eighth note,
+        and each gap as an eighth rest,
+        you end up with a rhythm that’s twelve quarter notes long –
+      &lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="c8 r8 c4 r8 c4 r8 c8 r8 c8 r8 c4 r8 c8 r8 c4 r8 c8 r8 c8 r8" src="wikidata-from-2.0.1-to-3.0.1-clip.png"/&gt;
+&lt;/figure&gt;
+&lt;p&gt;
+        – and distributes quite nicely across either three 4/4-time bars –
+      &lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="\time 4/4 c8 r8 c4 r8 c4 r8 | c8 r8 c8 r8 c4 r8 c8 | r8 c4 r8 c8 r8 c8 r8" src="wikidata-from-7.0.1-to-11.0.1-clip.png"/&gt;
+&lt;/figure&gt;
+&lt;p&gt;
+        – or two 6/4-time bars, which in my opinion makes more sense both musically and when looking at the logo image:
+      &lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="\time 6/4 c8 r8 c4 r8 c4 r8 c8 r8 c8 r8 | c4 r8 c8 r8 c4 r8 c8 r8 c8 r8" src="wikidata-from-4.0.1-to-6.0.1-clip.png"/&gt;
+&lt;/figure&gt;
+&lt;p&gt;
+        (The source code for all three images is &lt;a href="https://lucaswerkmeister.de/music/wikidata-rhythmic-improvisations-2018/wikidata.ly"&gt;wikidata.ly&lt;/a&gt;.)
+      &lt;/p&gt;
+&lt;p&gt;
+
+
+        It’s not a full composition, and I haven’t really internalized the rhythm yet,
+        but still I think it’s rather pretty, and a bit catchy.
+        The recording above is just what I made of it,
+        but you could obviously apply this rhythm it a lot of different ways.
+      &lt;/p&gt;
+&lt;p&gt;
+        (I have to admit that my interpretation,
+        specifically the C-D-G-C chord I used at the beginning and end,
+        is influenced a bit by &lt;cite&gt;&lt;a href="https://www.youtube.com/watch?v=1qRb1xt1APE"&gt;The First Circle&lt;/a&gt;&lt;/cite&gt;,
+        because I’ll be honest – I don’t know too many compositions that aren’t in 4/4 or 3/4 time.
+        That’s probably also why I dropped a note and lapsed into 5/4 time a few times – sorry.)
+      &lt;/p&gt;
+&lt;h2&gt;Download links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/wikidata-rhythmic-improvisations-2018/wikidata.flac"&gt;FLAC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/wikidata-rhythmic-improvisations-2018/wikidata.mp3"&gt;MP3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/wikidata-rhythmic-improvisations-2018/wikidata.wav"&gt;WAV&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/article&gt;</description><guid isPermaLink="true">https://lucaswerkmeister.de/music/wikidata-rhythmic-improvisations-2018/</guid><pubDate>Tue, 26 Jun 2018 00:00:00 GMT</pubDate></item><item><title>Melody in C major</title><link>https://lucaswerkmeister.de/music/melody-in-c-major-2018/</link><description>&lt;article&gt;
+
+&lt;div&gt;
+
+
+
+
+&lt;audio controls="controls"&gt;
+&lt;source src="melody.flac" type="audio/flac"/&gt;
+&lt;source src="melody.mp3" type="audio/mpeg"/&gt;
+&lt;source src="melody.wav" type="audio/wav"/&gt;
+          Your browser does not support the &lt;code&gt;audio&lt;/code&gt; element.
+          Try this link instead: &lt;a href="https://lucaswerkmeister.de/music/melody-in-c-major-2018/melody.wav"&gt;melody.wav&lt;/a&gt;
+&lt;/audio&gt;
+&lt;/div&gt;
+&lt;p&gt;
+&lt;span&gt;
+
+
+          A short melody in C major that I wrote.
+        &lt;/span&gt;
+        I only really found the first three bars,
+        the rest is kinda fumbled together on autopilot to arrive at a properly closed piece.
+      &lt;/p&gt;
+&lt;p&gt;
+        I did have one “epiphany” while practicing this, though –
+        notice how the melody dips down a few times?
+        The left hand accompaniment and the right hand melody actually use the same keys here,
+        and I was struggling at first with the melody being lost in the accompaniment –
+        but then I found that if I put some more emphasis on the melody and made the accompaniment a bit quieter,
+        they’re quite well distinguishable.
+        I’m sure my piano teachers tried to teach me this in the past,
+        but perhaps I’ll manage to internalize it better this time ☺
+      &lt;/p&gt;
+&lt;p&gt;
+        (I &lt;em&gt;think&lt;/em&gt; this is an original composition,
+        but I can’t deny a certain similarity to
+        &lt;a href="https://www.youtube.com/watch?v=RbXzhJtgFZE"&gt;
+&lt;span&gt;
+
+&lt;span&gt;Ella Fitzgerald&lt;/span&gt;&lt;/span&gt;’s
+          &lt;cite&gt;A Kiss Goodnight&lt;/cite&gt;&lt;/a&gt;…
+        it’s possible that it was in the back of my head, or something.)
+      &lt;/p&gt;
+&lt;h2&gt;Download links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/melody-in-c-major-2018/melody.flac"&gt;FLAC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/melody-in-c-major-2018/melody.mp3"&gt;MP3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/melody-in-c-major-2018/melody.wav"&gt;WAV&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/article&gt;</description><guid isPermaLink="true">https://lucaswerkmeister.de/music/melody-in-c-major-2018/</guid><pubDate>Thu, 22 Feb 2018 00:00:00 GMT</pubDate></item><item><title>B♭7/13 chord</title><link>https://lucaswerkmeister.de/music/Bb7-13-chord-2018/</link><description>&lt;article&gt;
+
+&lt;div&gt;
+
+
+
+&lt;audio controls="controls"&gt;
+&lt;source src="chord.flac" type="audio/flac"/&gt;
+&lt;source src="chord.mp3" type="audio/mpeg"/&gt;
+&lt;source src="chord.wav" type="audio/wav"/&gt;
+          Your browser does not support the &lt;code&gt;audio&lt;/code&gt; element.
+          Try this link instead: &lt;a href="https://lucaswerkmeister.de/music/Bb7-13-chord-2018/chord.wav"&gt;chord.wav&lt;/a&gt;
+&lt;/audio&gt;
+&lt;/div&gt;
+&lt;p&gt;
+        I found this really pleasing arrangement of a B♭7/13 chord while tinkering around on the piano,
+        and I thought I should record it.
+        (Includes a resolution to E♭ because I’m not a monster.)
+      &lt;/p&gt;
+&lt;figure&gt;
+&lt;img alt="Musical score of the chord and resolution." src="chord.png"/&gt;
+&lt;figcaption&gt;Score of the chord and resolution.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2&gt;Download links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/Bb7-13-chord-2018/chord.flac"&gt;FLAC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/Bb7-13-chord-2018/chord.mp3"&gt;MP3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/Bb7-13-chord-2018/chord.wav"&gt;WAV&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/Bb7-13-chord-2018/chord.ly"&gt;LilyPond&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/article&gt;</description><guid isPermaLink="true">https://lucaswerkmeister.de/music/Bb7-13-chord-2018/</guid><pubDate>Sun, 18 Feb 2018 00:00:00 GMT</pubDate></item><item><title>Tango (Improvisation)</title><link>https://lucaswerkmeister.de/music/tango-improvisation-2017/</link><description>&lt;article&gt;
+
+&lt;div&gt;
+
+
+
+
+
+&lt;audio controls="controls"&gt;
+&lt;source src="tango.flac" type="audio/flac"/&gt;
+&lt;source src="tango.mp3" type="audio/mpeg"/&gt;
+&lt;source src="tango.wav" type="audio/wav"/&gt;
+          Your browser does not support the &lt;code&gt;audio&lt;/code&gt; element.
+          Try this link instead: &lt;a href="https://lucaswerkmeister.de/music/tango-improvisation-2017/tango.wav"&gt;tango.wav&lt;/a&gt;
+&lt;/audio&gt;
+&lt;/div&gt;
+&lt;div&gt;
+
+
+
+
+&lt;/div&gt;
+&lt;p&gt;
+        (&lt;abbr title="Too Long; Didn’t Read"&gt;TL;DR&lt;/abbr&gt;: the recording gets more interesting after 0:35.)
+      &lt;/p&gt;
+&lt;p&gt;
+        My friend &lt;a href="https://twitter.com/maeusehaut" lang="de-DE"&gt;Merle&lt;/a&gt; lent me some of her piano training books,
+        and in
+        &lt;span&gt;
+&lt;cite&gt;The European Piano Method&lt;/cite&gt;
+&lt;small&gt;(Volume &lt;span datatype="xsd:integer"&gt;2&lt;/span&gt;)&lt;/small&gt;
+          by
+          &lt;span&gt;
+
+&lt;span lang="de-DE"&gt;Fritz Emonts&lt;/span&gt;
+&lt;/span&gt;
+&lt;/span&gt;
+        I found this
+        &lt;span&gt;
+
+
+&lt;cite&gt;Tango&lt;/cite&gt;&lt;/span&gt;,
+        where you’re supposed to &lt;q cite="https://lucaswerkmeister.de/music/tango-improvisation-2017/work/european-piano-method"&gt;complete the accompaniment&lt;/q&gt; yourself.
+        I took a bit more liberty ☺
+      &lt;/p&gt;
+&lt;p&gt;
+        The recording starts out with me just playing what’s in the actual sheet music,
+        which isn’t very much.
+        The second time round I play what I imagine they expect you to play, more or less.
+        After that, I went a bit off track, and improvised – &lt;em&gt;mainly&lt;/em&gt; on the “tango” topic,
+        but you’ll hear some deviations,
+        and you might even recognize some entirely different compositions in there.
+      &lt;/p&gt;
+&lt;h2&gt;Download links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/tango-improvisation-2017/tango.flac"&gt;FLAC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/tango-improvisation-2017/tango.mp3"&gt;MP3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/tango-improvisation-2017/tango.wav"&gt;WAV&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/article&gt;</description><guid isPermaLink="true">https://lucaswerkmeister.de/music/tango-improvisation-2017/</guid><pubDate>Thu, 14 Dec 2017 00:00:00 GMT</pubDate></item><item><title>Happy Birthday Dear Wikidata</title><link>https://lucaswerkmeister.de/music/happy-birthday-dear-wikidata-2017/</link><description>&lt;article&gt;
+
+&lt;div&gt;
+
+
+
+
+
+&lt;audio controls="controls"&gt;
+&lt;source src="take5.flac" type="audio/flac"/&gt;
+&lt;source src="take5.mp3" type="audio/mpeg"/&gt;
+&lt;source src="take5.wav" type="audio/wav"/&gt;
+          Your browser does not support the &lt;code&gt;audio&lt;/code&gt; element.
+          Try this link instead: &lt;a href="https://lucaswerkmeister.de/music/happy-birthday-dear-wikidata-2017/take5.wav"&gt;take5.wav&lt;/a&gt;
+&lt;/audio&gt;
+&lt;/div&gt;
+&lt;div&gt;
+
+
+
+
+&lt;/div&gt;
+&lt;p&gt;
+        I recorded three takes of improvisation / fantasy on
+        &lt;span&gt;
+&lt;a href="http://www.wikidata.org/entity/Q167545"&gt;&lt;cite&gt;Happy Birthday to You&lt;/cite&gt;&lt;/a&gt;&lt;/span&gt;,
+        dedicated to &lt;a href="https://www.wikidata.org/"&gt;Wikidata&lt;/a&gt;
+        for its &lt;a href="https://www.wikidata.org/wiki/Wikidata:Fifth_Birthday"&gt;fifth birthday&lt;/a&gt;.
+        Above is my favorite version (take 5), below are the two other ones (take 4 and 2).
+        (I also played two more takes, 1 and 3, but the recordings are lost due to computers.)
+      &lt;/p&gt;
+&lt;p&gt;
+        Each recording starts with just a reference note
+        and then one full iteration of the melody,
+        set in a fairly simple style –
+        if you want, you can play just that part and sing along to it.
+        After that comes the improvisation,
+        which isn’t really intended to be sung.
+      &lt;/p&gt;
+&lt;p&gt;
+        Note that while &lt;cite&gt;Happy Birthday to You&lt;/cite&gt; is in the Public Domain,
+        the improvisation includes snippets from other, non-PD compositions,
+        just for the fun of it.
+        I hope I kept them all short enough to not violate copyright
+        (and God do I hate having to think about this while I’m playing;
+        current copyright law is trash y’all),
+        but you might want to consider that if you want to play these pieces publicly.
+      &lt;/p&gt;
+&lt;h2&gt;Download links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/happy-birthday-dear-wikidata-2017/take5.flac"&gt;FLAC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/happy-birthday-dear-wikidata-2017/take5.mp3"&gt;MP3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lucaswerkmeister.de/music/happy-birthday-dear-wikidata-2017/take5.wav"&gt;WAV&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Take 4&lt;/h2&gt;
+&lt;div&gt;
+
+
+
+
+
+&lt;audio controls="controls"&gt;
+&lt;source src="take4.flac" type="audio/flac"/&gt;
+&lt;source src="take4.mp3" type="audio/mpeg"/&gt;
+&lt;source src="take4.wav" type="audio/wav"/&gt;
+          Your browser does not support the &lt;code&gt;audio&lt;/code&gt; element.
+          Try this link instead: &lt;a href="https://lucaswerkmeister.de/music/happy-birthday-dear-wikidata-2017/take4.wav"&gt;take4.wav&lt;/a&gt;
+&lt;/audio&gt;
+&lt;/div&gt;
+&lt;div&gt;
+
+
+
+
+&lt;/div&gt;
+&lt;h2&gt;Take 2&lt;/h2&gt;
+&lt;div&gt;
+
+
+
+
+
+&lt;audio controls="controls"&gt;
+&lt;source src="take2.flac" type="audio/flac"/&gt;
+&lt;source src="take2.mp3" type="audio/mpeg"/&gt;
+&lt;source src="take2.wav" type="audio/wav"/&gt;
+          Your browser does not support the &lt;code&gt;audio&lt;/code&gt; element.
+          Try this link instead: &lt;a href="https://lucaswerkmeister.de/music/happy-birthday-dear-wikidata-2017/take2.wav"&gt;take2.wav&lt;/a&gt;
+&lt;/audio&gt;
+&lt;/div&gt;
+&lt;div&gt;
+
+
+
+
+&lt;/div&gt;
+
+&lt;/article&gt;</description><guid isPermaLink="true">https://lucaswerkmeister.de/music/happy-birthday-dear-wikidata-2017/</guid><pubDate>Thu, 26 Oct 2017 00:00:00 GMT</pubDate></item></channel></rss>
